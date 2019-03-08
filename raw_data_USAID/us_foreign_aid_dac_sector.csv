@@ -1,0 +1,1220 @@
+dac_sector_category_id,dac_sector_category_name,dac_sector_code,dac_sector_name,transaction_type_id,transaction_type_name,fiscal_year,current_amount,constant_amount
+1,Education,111,"Education, Level Unspecified",2,Obligations,2001,18340146,24845600
+1,Education,111,"Education, Level Unspecified",2,Obligations,2002,74143080,98842864
+1,Education,111,"Education, Level Unspecified",2,Obligations,2003,67047995,87707997
+1,Education,111,"Education, Level Unspecified",2,Obligations,2004,151898653,193901131
+1,Education,111,"Education, Level Unspecified",2,Obligations,2005,223611947,276753762
+1,Education,111,"Education, Level Unspecified",2,Obligations,2006,192971316,231307681
+1,Education,111,"Education, Level Unspecified",2,Obligations,2007,225889405,263607617
+1,Education,111,"Education, Level Unspecified",2,Obligations,2008,234326366,267892998
+1,Education,111,"Education, Level Unspecified",2,Obligations,2009,282757897,319544692
+1,Education,111,"Education, Level Unspecified",2,Obligations,2010,130488857,146179083
+1,Education,111,"Education, Level Unspecified",2,Obligations,2011,110100470,120882675
+1,Education,111,"Education, Level Unspecified",2,Obligations,2012,98484094,106189178
+1,Education,111,"Education, Level Unspecified",2,Obligations,2013,53784751,57029595
+1,Education,111,"Education, Level Unspecified",2,Obligations,2014,169171850,176171311
+1,Education,111,"Education, Level Unspecified",2,Obligations,2015,142346655,146468136
+1,Education,111,"Education, Level Unspecified",2,Obligations,2016,138273640,140650800
+1,Education,111,"Education, Level Unspecified",2,Obligations,2017,50280724,50280724
+1,Education,111,"Education, Level Unspecified",2,Obligations,2018,35641260,35091643
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2001,34750376,47076719
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2002,37857776,50469592
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2003,65291140,85409793
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2004,115116866,146948573
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2005,216193806,267572686
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2006,187032369,224188888
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2007,269249945,314208342
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2008,279458647,319490361
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2009,208108975,235183948
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2010,119309270,133655238
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2011,115907680,127258591
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2012,101260822,109183145
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2013,95951633,101740423
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2014,129411827,134766227
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2015,126648355,130315309
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2016,129576193,131803831
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2017,104147526,104147526
+1,Education,111,"Education, Level Unspecified",3,Disbursements,2018,38341627,37750368
+1,Education,112,Basic Education,2,Obligations,2001,87335133,118313873
+1,Education,112,Basic Education,2,Obligations,2002,122998638,163973998
+1,Education,112,Basic Education,2,Obligations,2003,244940947,320416431
+1,Education,112,Basic Education,2,Obligations,2004,306526515,391286133
+1,Education,112,Basic Education,2,Obligations,2005,390480753,483279257
+1,Education,112,Basic Education,2,Obligations,2006,464740357,557067327
+1,Education,112,Basic Education,2,Obligations,2007,548815080,640454270
+1,Education,112,Basic Education,2,Obligations,2008,520064187,594561964
+1,Education,112,Basic Education,2,Obligations,2009,815133631,921182520
+1,Education,112,Basic Education,2,Obligations,2010,908172478,1017372839
+1,Education,112,Basic Education,2,Obligations,2011,779144457,855446573
+1,Education,112,Basic Education,2,Obligations,2012,937490504,1010836749
+1,Education,112,Basic Education,2,Obligations,2013,918057327,973443965
+1,Education,112,Basic Education,2,Obligations,2014,1031504175,1074182509
+1,Education,112,Basic Education,2,Obligations,2015,801015952,824208459
+1,Education,112,Basic Education,2,Obligations,2016,1218018634,1238958472
+1,Education,112,Basic Education,2,Obligations,2017,1204243604,1204243604
+1,Education,112,Basic Education,2,Obligations,2018,641373411,631482926
+1,Education,112,Basic Education,3,Disbursements,2001,104404359,141437751
+1,Education,112,Basic Education,3,Disbursements,2002,127714176,170260450
+1,Education,112,Basic Education,3,Disbursements,2003,202447252,264828838
+1,Education,112,Basic Education,3,Disbursements,2004,197233281,251771518
+1,Education,112,Basic Education,3,Disbursements,2005,365832661,452773520
+1,Education,112,Basic Education,3,Disbursements,2006,386753814,463587693
+1,Education,112,Basic Education,3,Disbursements,2007,481905048,562371841
+1,Education,112,Basic Education,3,Disbursements,2008,420623765,480876990
+1,Education,112,Basic Education,3,Disbursements,2009,698605031,789493551
+1,Education,112,Basic Education,3,Disbursements,2010,816488579,914664686
+1,Education,112,Basic Education,3,Disbursements,2011,854504347,938186477
+1,Education,112,Basic Education,3,Disbursements,2012,874434338,942847277
+1,Education,112,Basic Education,3,Disbursements,2013,873944002,926669274
+1,Education,112,Basic Education,3,Disbursements,2014,932191930,970761226
+1,Education,112,Basic Education,3,Disbursements,2015,904107360,930284736
+1,Education,112,Basic Education,3,Disbursements,2016,1137757873,1157317899
+1,Education,112,Basic Education,3,Disbursements,2017,1243901247,1243901247
+1,Education,112,Basic Education,3,Disbursements,2018,758672094,746972765
+1,Education,113,Secondary Education,2,Obligations,2001,24815,33617
+1,Education,113,Secondary Education,2,Obligations,2002,-2961599,-3948216
+1,Education,113,Secondary Education,2,Obligations,2003,107965,141232
+1,Education,113,Secondary Education,2,Obligations,2004,2564421,3273526
+1,Education,113,Secondary Education,2,Obligations,2005,8095041,10018843
+1,Education,113,Secondary Education,2,Obligations,2006,72882,87359
+1,Education,113,Secondary Education,2,Obligations,2007,8730022,10187732
+1,Education,113,Secondary Education,2,Obligations,2008,61699758,70538083
+1,Education,113,Secondary Education,2,Obligations,2009,36270983,40989838
+1,Education,113,Secondary Education,2,Obligations,2010,11015134,12339612
+1,Education,113,Secondary Education,2,Obligations,2011,6269234,6883186
+1,Education,113,Secondary Education,2,Obligations,2012,2307444,2487971
+1,Education,113,Secondary Education,2,Obligations,2013,2795297,2963941
+1,Education,113,Secondary Education,2,Obligations,2014,19715668,20531401
+1,Education,113,Secondary Education,2,Obligations,2015,102602573,105573310
+1,Education,113,Secondary Education,2,Obligations,2016,22836076,23228667
+1,Education,113,Secondary Education,2,Obligations,2017,111241750,111241750
+1,Education,113,Secondary Education,2,Obligations,2018,15506632,15267508
+1,Education,113,Secondary Education,3,Disbursements,2001,18560003,25143439
+1,Education,113,Secondary Education,3,Disbursements,2002,13090363,17451245
+1,Education,113,Secondary Education,3,Disbursements,2003,93942,122889
+1,Education,113,Secondary Education,3,Disbursements,2004,661127,843941
+1,Education,113,Secondary Education,3,Disbursements,2005,3278868,4058098
+1,Education,113,Secondary Education,3,Disbursements,2006,4550547,5454573
+1,Education,113,Secondary Education,3,Disbursements,2007,8954231,10449379
+1,Education,113,Secondary Education,3,Disbursements,2008,1563902,1787926
+1,Education,113,Secondary Education,3,Disbursements,2009,4465556,5046526
+1,Education,113,Secondary Education,3,Disbursements,2010,10084921,11297554
+1,Education,113,Secondary Education,3,Disbursements,2011,15916750,17475484
+1,Education,113,Secondary Education,3,Disbursements,2012,40217561,43364055
+1,Education,113,Secondary Education,3,Disbursements,2013,34731168,36826509
+1,Education,113,Secondary Education,3,Disbursements,2014,15403913,16041247
+1,Education,113,Secondary Education,3,Disbursements,2015,3438285,3537836
+1,Education,113,Secondary Education,3,Disbursements,2016,5219094,5308820
+1,Education,113,Secondary Education,3,Disbursements,2017,19168354,19168354
+1,Education,113,Secondary Education,3,Disbursements,2018,9538345,9391255
+1,Education,114,Post-Secondary Education,2,Obligations,2001,20200066,27365251
+1,Education,114,Post-Secondary Education,2,Obligations,2002,29983346,39971897
+1,Education,114,Post-Secondary Education,2,Obligations,2003,32086160,41973105
+1,Education,114,Post-Secondary Education,2,Obligations,2004,18977793,24225467
+1,Education,114,Post-Secondary Education,2,Obligations,2005,16714281,20686459
+1,Education,114,Post-Secondary Education,2,Obligations,2006,7300585,8750945
+1,Education,114,Post-Secondary Education,2,Obligations,2007,41506319,48436894
+1,Education,114,Post-Secondary Education,2,Obligations,2008,91288293,104365092
+1,Education,114,Post-Secondary Education,2,Obligations,2009,112580001,127226659
+1,Education,114,Post-Secondary Education,2,Obligations,2010,209457198,234642721
+1,Education,114,Post-Secondary Education,2,Obligations,2011,138865040,152464189
+1,Education,114,Post-Secondary Education,2,Obligations,2012,125196139,134991081
+1,Education,114,Post-Secondary Education,2,Obligations,2013,132380683,140367245
+1,Education,114,Post-Secondary Education,2,Obligations,2014,232795809,242427700
+1,Education,114,Post-Secondary Education,2,Obligations,2015,215031732,221257728
+1,Education,114,Post-Secondary Education,2,Obligations,2016,156572466,159264215
+1,Education,114,Post-Secondary Education,2,Obligations,2017,360564503,360564503
+1,Education,114,Post-Secondary Education,2,Obligations,2018,101725070,100156389
+1,Education,114,Post-Secondary Education,3,Disbursements,2001,24681836,33436756
+1,Education,114,Post-Secondary Education,3,Disbursements,2002,35758994,47671625
+1,Education,114,Post-Secondary Education,3,Disbursements,2003,27886371,36479207
+1,Education,114,Post-Secondary Education,3,Disbursements,2004,28842158,36817491
+1,Education,114,Post-Secondary Education,3,Disbursements,2005,23851455,29519809
+1,Education,114,Post-Secondary Education,3,Disbursements,2006,25216696,30226330
+1,Education,114,Post-Secondary Education,3,Disbursements,2007,13606825,15878841
+1,Education,114,Post-Secondary Education,3,Disbursements,2008,36119926,41294000
+1,Education,114,Post-Secondary Education,3,Disbursements,2009,81434977,92029666
+1,Education,114,Post-Secondary Education,3,Disbursements,2010,167647242,187805453
+1,Education,114,Post-Secondary Education,3,Disbursements,2011,100600129,110451951
+1,Education,114,Post-Secondary Education,3,Disbursements,2012,110599567,119252517
+1,Education,114,Post-Secondary Education,3,Disbursements,2013,110861301,117549582
+1,Education,114,Post-Secondary Education,3,Disbursements,2014,130910262,136326652
+1,Education,114,Post-Secondary Education,3,Disbursements,2015,163766980,168508662
+1,Education,114,Post-Secondary Education,3,Disbursements,2016,206216899,209762119
+1,Education,114,Post-Secondary Education,3,Disbursements,2017,231779032,231779032
+1,Education,114,Post-Secondary Education,3,Disbursements,2018,149711860,147403180
+2,Health and Population,121,"Health, General",2,Obligations,2001,117500328,159178998
+2,Health and Population,121,"Health, General",2,Obligations,2002,124038780,165360650
+2,Health and Population,121,"Health, General",2,Obligations,2003,137326115,179641451
+2,Health and Population,121,"Health, General",2,Obligations,2004,223283448,285024996
+2,Health and Population,121,"Health, General",2,Obligations,2005,191932005,237545021
+2,Health and Population,121,"Health, General",2,Obligations,2006,190382789,228204914
+2,Health and Population,121,"Health, General",2,Obligations,2007,96420291,112520205
+2,Health and Population,121,"Health, General",2,Obligations,2008,103912335,118797501
+2,Health and Population,121,"Health, General",2,Obligations,2009,56267797,63588240
+2,Health and Population,121,"Health, General",2,Obligations,2010,48255339,54057648
+2,Health and Population,121,"Health, General",2,Obligations,2011,268715320,295030785
+2,Health and Population,121,"Health, General",2,Obligations,2012,83081573,89581609
+2,Health and Population,121,"Health, General",2,Obligations,2013,65617636,69576373
+2,Health and Population,121,"Health, General",2,Obligations,2014,214219674,223082979
+2,Health and Population,121,"Health, General",2,Obligations,2015,124072903,127665286
+2,Health and Population,121,"Health, General",2,Obligations,2016,465314188,473313737
+2,Health and Population,121,"Health, General",2,Obligations,2017,47663935,47663935
+2,Health and Population,121,"Health, General",2,Obligations,2018,30804377,30329348
+2,Health and Population,121,"Health, General",3,Disbursements,2001,90575021,122702983
+2,Health and Population,121,"Health, General",3,Disbursements,2002,82188584,109568612
+2,Health and Population,121,"Health, General",3,Disbursements,2003,109276654,142948885
+2,Health and Population,121,"Health, General",3,Disbursements,2004,167919601,214352125
+2,Health and Population,121,"Health, General",3,Disbursements,2005,247425109,306226157
+2,Health and Population,121,"Health, General",3,Disbursements,2006,216573046,259598214
+2,Health and Population,121,"Health, General",3,Disbursements,2007,173051718,201947276
+2,Health and Population,121,"Health, General",3,Disbursements,2008,144072987,164711053
+2,Health and Population,121,"Health, General",3,Disbursements,2009,71369366,80654518
+2,Health and Population,121,"Health, General",3,Disbursements,2010,35209183,39442799
+2,Health and Population,121,"Health, General",3,Disbursements,2011,207737957,228081864
+2,Health and Population,121,"Health, General",3,Disbursements,2012,57915627,62446757
+2,Health and Population,121,"Health, General",3,Disbursements,2013,50601203,53653983
+2,Health and Population,121,"Health, General",3,Disbursements,2014,175469438,182729459
+2,Health and Population,121,"Health, General",3,Disbursements,2015,120968194,124470689
+2,Health and Population,121,"Health, General",3,Disbursements,2016,468839242,476899391
+2,Health and Population,121,"Health, General",3,Disbursements,2017,35277171,35277171
+2,Health and Population,121,"Health, General",3,Disbursements,2018,12409820,12218454
+2,Health and Population,122,Basic Health,2,Obligations,2001,454076358,615142277
+2,Health and Population,122,Basic Health,2,Obligations,2002,582354767,776358535
+2,Health and Population,122,Basic Health,2,Obligations,2003,737657804,964957876
+2,Health and Population,122,Basic Health,2,Obligations,2004,1194647562,1524987242
+2,Health and Population,122,Basic Health,2,Obligations,2005,663959950,821751326
+2,Health and Population,122,Basic Health,2,Obligations,2006,1052920009,1262096831
+2,Health and Population,122,Basic Health,2,Obligations,2007,894428664,1043777200
+2,Health and Population,122,Basic Health,2,Obligations,2008,1104365516,1262562926
+2,Health and Population,122,Basic Health,2,Obligations,2009,1104712731,1248435890
+2,Health and Population,122,Basic Health,2,Obligations,2010,1418937034,1589552650
+2,Health and Population,122,Basic Health,2,Obligations,2011,1535629896,1686015114
+2,Health and Population,122,Basic Health,2,Obligations,2012,1525890331,1645271090
+2,Health and Population,122,Basic Health,2,Obligations,2013,1298990126,1377358563
+2,Health and Population,122,Basic Health,2,Obligations,2014,1579063624,1644397128
+2,Health and Population,122,Basic Health,2,Obligations,2015,2607461912,2682957946
+2,Health and Population,122,Basic Health,2,Obligations,2016,2235456656,2273888004
+2,Health and Population,122,Basic Health,2,Obligations,2017,2083406554,2083406554
+2,Health and Population,122,Basic Health,2,Obligations,2018,1339346528,1318692731
+2,Health and Population,122,Basic Health,3,Disbursements,2001,519381327,703611634
+2,Health and Population,122,Basic Health,3,Disbursements,2002,681787675,908916174
+2,Health and Population,122,Basic Health,3,Disbursements,2003,603823355,789883986
+2,Health and Population,122,Basic Health,3,Disbursements,2004,733887185,936819036
+2,Health and Population,122,Basic Health,3,Disbursements,2005,994273422,1230564415
+2,Health and Population,122,Basic Health,3,Disbursements,2006,972776236,1166031401
+2,Health and Population,122,Basic Health,3,Disbursements,2007,818044351,954638511
+2,Health and Population,122,Basic Health,3,Disbursements,2008,868943137,993416938
+2,Health and Population,122,Basic Health,3,Disbursements,2009,1074470416,1214259016
+2,Health and Population,122,Basic Health,3,Disbursements,2010,983370853,1101613189
+2,Health and Population,122,Basic Health,3,Disbursements,2011,1194361032,1311325542
+2,Health and Population,122,Basic Health,3,Disbursements,2012,1151294849,1241368476
+2,Health and Population,122,Basic Health,3,Disbursements,2013,1355063694,1436815036
+2,Health and Population,122,Basic Health,3,Disbursements,2014,1525961591,1589098013
+2,Health and Population,122,Basic Health,3,Disbursements,2015,1934533166,1990545305
+2,Health and Population,122,Basic Health,3,Disbursements,2016,1973155407,2007077337
+2,Health and Population,122,Basic Health,3,Disbursements,2017,2176758929,2176758929
+2,Health and Population,122,Basic Health,3,Disbursements,2018,1454229037,1431803627
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2001,429668392,582076528
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2002,393204253,524195028
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2003,341184583,446316368
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2004,329017203,419995863
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2005,319710515,395690352
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2006,288688826,346040773
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2007,580742512,677712850
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2008,844885868,965913505
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2009,930988209,1052109814
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2010,1010217230,1131687629
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2011,922998039,1013387823
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2012,1266371933,1365448821
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2013,912823971,967894889
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2014,1125306785,1171866120
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2015,1358957717,1398304774
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2016,1205969893,1226702614
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2017,1151997411,1151997411
+2,Health and Population,130,"Maternal and Child Health, Family Planning",2,Obligations,2018,616428353,606922557
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2001,434200358,588216050
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2002,410062933,546669967
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2003,396977557,519301230
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2004,338274873,431813424
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2005,329242732,407487926
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2006,360837611,432522891
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2007,369902750,431667780
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2008,511491837,584761666
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2009,833455030,941887538
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2010,958688294,1073962763
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2011,1013137998,1112355247
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2012,996996164,1074997952
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2013,1135399307,1203898253
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2014,1027475268,1069986905
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2015,1329568226,1368064346
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2016,1132551790,1152022287
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2017,1143844718,1143844718
+2,Health and Population,130,"Maternal and Child Health, Family Planning",3,Disbursements,2018,949541591,934898906
+2,Health and Population,134,HIV/AIDS,2,Obligations,2001,302864664,410294126
+2,Health and Population,134,HIV/AIDS,2,Obligations,2002,763379984,1017689883
+2,Health and Population,134,HIV/AIDS,2,Obligations,2003,1084129912,1418191008
+2,Health and Population,134,HIV/AIDS,2,Obligations,2004,1983536353,2532016737
+2,Health and Population,134,HIV/AIDS,2,Obligations,2005,2624205446,3247853018
+2,Health and Population,134,HIV/AIDS,2,Obligations,2006,2914686513,3493728501
+2,Health and Population,134,HIV/AIDS,2,Obligations,2007,3814552943,4451493447
+2,Health and Population,134,HIV/AIDS,2,Obligations,2008,4640729208,5305501303
+2,Health and Population,134,HIV/AIDS,2,Obligations,2009,5569653027,6294264878
+2,Health and Population,134,HIV/AIDS,2,Obligations,2010,5082160984,5693249512
+2,Health and Population,134,HIV/AIDS,2,Obligations,2011,4760545908,5226749159
+2,Health and Population,134,HIV/AIDS,2,Obligations,2012,6113461006,6591758694
+2,Health and Population,134,HIV/AIDS,2,Obligations,2013,6608893068,7007609378
+2,Health and Population,134,HIV/AIDS,2,Obligations,2014,6378742881,6642662456
+2,Health and Population,134,HIV/AIDS,2,Obligations,2015,5308643850,5462349487
+2,Health and Population,134,HIV/AIDS,2,Obligations,2016,7778385056,7912108892
+2,Health and Population,134,HIV/AIDS,2,Obligations,2017,6054471252,6054471252
+2,Health and Population,134,HIV/AIDS,2,Obligations,2018,2770330741,2727610005
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2001,143070658,193819405
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2002,511689922,682152640
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2003,918397135,1201389757
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2004,1402421553,1790214143
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2005,2379763357,2945318754
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2006,2110068924,2529262711
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2007,2678169175,3125360356
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2008,4796577028,5483673920
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2009,5250521555,5933614438
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2010,4442333111,4976487558
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2011,5454565033,5988734057
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2012,6707937857,7232745488
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2013,7033485804,7457817865
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2014,6483268848,6751513162
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2015,4631300884,4765394825
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2016,6763339651,6879613091
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2017,6444069747,6444069747
+2,Health and Population,134,HIV/AIDS,3,Disbursements,2018,2914836240,2869887112
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2001,94074954,127444386
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2002,200197032,266890009
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2003,139249315,182157258
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2004,528653484,674834856
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2005,1106044847,1368898572
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2006,775442595,929494779
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2007,341594816,398633100
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2008,628738465,718803591
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2009,377714090,426854687
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2010,326444116,365696359
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2011,272613855,299311107
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2012,686164005,739847289
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2013,292923436,310595587
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2014,470439671,489904040
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2015,260506974,268049647
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2016,368427343,374761248
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2017,430319804,430319804
+2,Health and Population,140,Water Supply and Sanitation,2,Obligations,2018,213222847,209934776
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2001,94852038,128497106
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2002,123448466,164573675
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2003,119827403,156750714
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2004,154008991,196595000
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2005,827831763,1024567582
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2006,662260146,793827085
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2007,615440075,718204080
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2008,220638558,252244437
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2009,271032837,306294211
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2010,375911827,421112168
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2011,389276562,427398666
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2012,371921929,401019906
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2013,451504246,478743624
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2014,331891519,345623483
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2015,395243321,406687140
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2016,375167972,381617767
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2017,506481791,506481791
+2,Health and Population,140,Water Supply and Sanitation,3,Disbursements,2018,248922526,245083937
+3,Governance,151,Government and Civil Society,2,Obligations,2001,1114959234,1510447633
+3,Governance,151,Government and Civil Society,2,Obligations,2002,1355085468,1806514183
+3,Governance,151,Government and Civil Society,2,Obligations,2003,5312994594,6950127531
+3,Governance,151,Government and Civil Society,2,Obligations,2004,4198802315,5359840153
+3,Governance,151,Government and Civil Society,2,Obligations,2005,4839201708,5989247451
+3,Governance,151,Government and Civil Society,2,Obligations,2006,2521492111,3022420746
+3,Governance,151,Government and Civil Society,2,Obligations,2007,3015020567,3518458014
+3,Governance,151,Government and Civil Society,2,Obligations,2008,3641165907,4162753209
+3,Governance,151,Government and Civil Society,2,Obligations,2009,5033793961,5688690639
+3,Governance,151,Government and Civil Society,2,Obligations,2010,5077105742,5687586423
+3,Governance,151,Government and Civil Society,2,Obligations,2011,4455107584,4891399119
+3,Governance,151,Government and Civil Society,2,Obligations,2012,4720814292,5090155709
+3,Governance,151,Government and Civil Society,2,Obligations,2013,3120932913,3309219680
+3,Governance,151,Government and Civil Society,2,Obligations,2014,3532900058,3679073225
+3,Governance,151,Government and Civil Society,2,Obligations,2015,3781396484,3890882440
+3,Governance,151,Government and Civil Society,2,Obligations,2016,1830010634,1861471791
+3,Governance,151,Government and Civil Society,2,Obligations,2017,3782019499,3782019499
+3,Governance,151,Government and Civil Society,2,Obligations,2018,1325653339,1305210698
+3,Governance,151,Government and Civil Society,3,Disbursements,2001,1018534838,1379820416
+3,Governance,151,Government and Civil Society,3,Disbursements,2002,1250663337,1667305178
+3,Governance,151,Government and Civil Society,3,Disbursements,2003,2680908090,3506996422
+3,Governance,151,Government and Civil Society,3,Disbursements,2004,2161875950,2759670162
+3,Governance,151,Government and Civil Society,3,Disbursements,2005,4461145875,5521345899
+3,Governance,151,Government and Civil Society,3,Disbursements,2006,2208396086,2647123893
+3,Governance,151,Government and Civil Society,3,Disbursements,2007,2409372125,2811680470
+3,Governance,151,Government and Civil Society,3,Disbursements,2008,3033484703,3468023279
+3,Governance,151,Government and Civil Society,3,Disbursements,2009,4329072803,4892285200
+3,Governance,151,Government and Civil Society,3,Disbursements,2010,3664033769,4104603987
+3,Governance,151,Government and Civil Society,3,Disbursements,2011,3872865247,4252137400
+3,Governance,151,Government and Civil Society,3,Disbursements,2012,4359176353,4700224366
+3,Governance,151,Government and Civil Society,3,Disbursements,2013,3504308312,3715724186
+3,Governance,151,Government and Civil Society,3,Disbursements,2014,3294425112,3430731425
+3,Governance,151,Government and Civil Society,3,Disbursements,2015,3707535140,3814882480
+3,Governance,151,Government and Civil Society,3,Disbursements,2016,3067181984,3119912206
+3,Governance,151,Government and Civil Society,3,Disbursements,2017,3296372858,3296372858
+3,Governance,151,Government and Civil Society,3,Disbursements,2018,1463323683,1440758077
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2001,4225291145,5724048816
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2002,4788064632,6383144812
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2003,6941167329,9080001372
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2004,6824937463,8712144808
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2005,8645340164,10699922110
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2006,12760702411,15295788923
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2007,14062039355,16410068847
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2008,16264969642,18594883301
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2009,15300195345,17290750791
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2010,15234413951,17066228396
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2011,19348617657,21243440026
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2012,18402204879,19841934668
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2013,14351421748,15217246876
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2014,10722468607,11166109256
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2015,15806252248,16263903900
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2016,16464322049,16747372041
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2017,15932241732,15932241732
+3,Governance,152,"Conflict, Peace, and Security",2,Obligations,2018,921672045,907459126
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2001,4146050699,5616700913
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2002,4802448334,6402320241
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2003,6886049882,9007900176
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2004,5970606644,7621577513
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2005,7549371539,9343494411
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2006,10945188758,13119598875
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2007,12817789511,14958058568
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2008,15676942743,17922623121
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2009,15789038103,17843191959
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2010,13424219554,15038372833
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2011,17241093790,18929524990
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2012,15469780483,16680086729
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2013,14832551183,15727402968
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2014,10126766496,10545760052
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2015,16206260554,16675493982
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2016,13980863884,14221218943
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2017,14788047958,14788047958
+3,Governance,152,"Conflict, Peace, and Security",3,Disbursements,2018,1037400409,1021402875
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2001,631626316,855671196
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2002,957923360,1277042805
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2003,1142301719,1494287732
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2004,1262244647,1611276039
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2005,1633397278,2021577338
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2006,2260085363,2709081950
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2007,1589133768,1854481685
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2008,2118266452,2421702455
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2009,1902911291,2150480069
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2010,2297080702,2573285967
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2011,1725619244,1894610211
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2012,1133118488,1221770044
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2013,1092013125,1157894563
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2014,781456841,813789501
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2015,1343976760,1382890041
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2016,755431665,768418829
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2017,678429818,678429818
+3,Governance,160,Other Social Infrastructure and Services,2,Obligations,2018,157374970,154948126
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2001,446979827,605528527
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2002,887230183,1182799129
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2003,1161847037,1519855685
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2004,1185457799,1513256365
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2005,1259181938,1558428990
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2006,1528956260,1832704137
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2007,1389803435,1621867891
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2008,2054024341,2348257854
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2009,1794100078,2027512520
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2010,2139521791,2396781893
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2011,1927834816,2116628871
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2012,1253181380,1351226265
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2013,1178242570,1249326269
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2014,861147357,896777188
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2015,1292404528,1329824583
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2016,750792117,763699526
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2017,724945379,724945379
+3,Governance,160,Other Social Infrastructure and Services,3,Disbursements,2018,204117102,200969455
+4,Infrastructure,210,Transport and Storage,2,Obligations,2001,15155265,20531006
+4,Infrastructure,210,Transport and Storage,2,Obligations,2002,19856594,26471552
+4,Infrastructure,210,Transport and Storage,2,Obligations,2003,1382076545,1807946176
+4,Infrastructure,210,Transport and Storage,2,Obligations,2004,2053059966,2620764793
+4,Infrastructure,210,Transport and Storage,2,Obligations,2005,580421409,718359694
+4,Infrastructure,210,Transport and Storage,2,Obligations,2006,753860149,903624689
+4,Infrastructure,210,Transport and Storage,2,Obligations,2007,933635378,1089530511
+4,Infrastructure,210,Transport and Storage,2,Obligations,2008,1490684920,1704221576
+4,Infrastructure,210,Transport and Storage,2,Obligations,2009,1377997296,1557274738
+4,Infrastructure,210,Transport and Storage,2,Obligations,2010,932430627,1044547814
+4,Infrastructure,210,Transport and Storage,2,Obligations,2011,650449877,714148838
+4,Infrastructure,210,Transport and Storage,2,Obligations,2012,520535478,561260504
+4,Infrastructure,210,Transport and Storage,2,Obligations,2013,178385836,189147903
+4,Infrastructure,210,Transport and Storage,2,Obligations,2014,252578631,263029032
+4,Infrastructure,210,Transport and Storage,2,Obligations,2015,229452477,236096013
+4,Infrastructure,210,Transport and Storage,2,Obligations,2016,62520460,63595298
+4,Infrastructure,210,Transport and Storage,2,Obligations,2017,31154473,31154473
+4,Infrastructure,210,Transport and Storage,2,Obligations,2018,57316261,56432397
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2001,9697758,13137659
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2002,20208389,26940544
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2003,123728511,161853902
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2004,998228090,1274254573
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2005,1438065804,1779824947
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2006,1158225694,1388322915
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2007,481575695,561987499
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2008,586934152,671010913
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2009,1111482006,1256085812
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2010,1135017121,1271493704
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2011,1121002580,1230783070
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2012,838444212,904041407
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2013,740443996,785115181
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2014,543051609,565520289
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2015,455755192,468951060
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2016,301651017,306836916
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2017,88991515,88991515
+4,Infrastructure,210,Transport and Storage,3,Disbursements,2018,46443281,45727088
+4,Infrastructure,220,Communications,2,Obligations,2001,8948960,12123257
+4,Infrastructure,220,Communications,2,Obligations,2002,28479223,37966704
+4,Infrastructure,220,Communications,2,Obligations,2003,25572123,33451855
+4,Infrastructure,220,Communications,2,Obligations,2004,154641394,197402281
+4,Infrastructure,220,Communications,2,Obligations,2005,125428464,155236783
+4,Infrastructure,220,Communications,2,Obligations,2006,70561360,84579329
+4,Infrastructure,220,Communications,2,Obligations,2007,23989189,27994820
+4,Infrastructure,220,Communications,2,Obligations,2008,5622185,6427550
+4,Infrastructure,220,Communications,2,Obligations,2009,31719880,35846637
+4,Infrastructure,220,Communications,2,Obligations,2010,17253958,19328607
+4,Infrastructure,220,Communications,2,Obligations,2011,9575363,10513087
+4,Infrastructure,220,Communications,2,Obligations,2012,17111186,18449913
+4,Infrastructure,220,Communications,2,Obligations,2013,11910766,12629345
+4,Infrastructure,220,Communications,2,Obligations,2014,11016276,11472073
+4,Infrastructure,220,Communications,2,Obligations,2015,5724396,5890139
+4,Infrastructure,220,Communications,2,Obligations,2016,11001339,11190473
+4,Infrastructure,220,Communications,2,Obligations,2017,3748051,3748051
+4,Infrastructure,220,Communications,2,Obligations,2018,165314,162765
+4,Infrastructure,220,Communications,3,Disbursements,2001,39233956,53150675
+4,Infrastructure,220,Communications,3,Disbursements,2002,53293554,71047599
+4,Infrastructure,220,Communications,3,Disbursements,2003,29712149,38867572
+4,Infrastructure,220,Communications,3,Disbursements,2004,35232413,44974753
+4,Infrastructure,220,Communications,3,Disbursements,2005,149188903,184643938
+4,Infrastructure,220,Communications,3,Disbursements,2006,72253162,86607229
+4,Infrastructure,220,Communications,3,Disbursements,2007,49914496,58249042
+4,Infrastructure,220,Communications,3,Disbursements,2008,32599588,37269387
+4,Infrastructure,220,Communications,3,Disbursements,2009,18674639,21104202
+4,Infrastructure,220,Communications,3,Disbursements,2010,32550582,36464526
+4,Infrastructure,220,Communications,3,Disbursements,2011,13259013,14557476
+4,Infrastructure,220,Communications,3,Disbursements,2012,12420213,13391927
+4,Infrastructure,220,Communications,3,Disbursements,2013,10322927,10945714
+4,Infrastructure,220,Communications,3,Disbursements,2014,10395406,10825512
+4,Infrastructure,220,Communications,3,Disbursements,2015,8100171,8334701
+4,Infrastructure,220,Communications,3,Disbursements,2016,-3954297,-4022277
+4,Infrastructure,220,Communications,3,Disbursements,2017,10742197,10742197
+4,Infrastructure,220,Communications,3,Disbursements,2018,9264912,9122038
+4,Infrastructure,230,Energy,2,Obligations,2001,262959818,356234585
+4,Infrastructure,230,Energy,2,Obligations,2002,308339140,411058225
+4,Infrastructure,230,Energy,2,Obligations,2003,562546741,735888496
+4,Infrastructure,230,Energy,2,Obligations,2004,1749806350,2233656559
+4,Infrastructure,230,Energy,2,Obligations,2005,2238679017,2770705468
+4,Infrastructure,230,Energy,2,Obligations,2006,2941181896,3525487541
+4,Infrastructure,230,Energy,2,Obligations,2007,2635867608,3075995434
+4,Infrastructure,230,Energy,2,Obligations,2008,2911356810,3328400928
+4,Infrastructure,230,Energy,2,Obligations,2009,708376331,800536091
+4,Infrastructure,230,Energy,2,Obligations,2010,1154093735,1292864119
+4,Infrastructure,230,Energy,2,Obligations,2011,1432020843,1572259564
+4,Infrastructure,230,Energy,2,Obligations,2012,911519671,982834059
+4,Infrastructure,230,Energy,2,Obligations,2013,1885372487,1999117518
+4,Infrastructure,230,Energy,2,Obligations,2014,969316369,1009421689
+4,Infrastructure,230,Energy,2,Obligations,2015,625062246,643160196
+4,Infrastructure,230,Energy,2,Obligations,2016,1208508205,1229284530
+4,Infrastructure,230,Energy,2,Obligations,2017,717438226,717438226
+4,Infrastructure,230,Energy,2,Obligations,2018,-212412407,-209136843
+4,Infrastructure,230,Energy,3,Disbursements,2001,337401776,457081930
+4,Infrastructure,230,Energy,3,Disbursements,2002,283196244,377539319
+4,Infrastructure,230,Energy,3,Disbursements,2003,508259212,664872942
+4,Infrastructure,230,Energy,3,Disbursements,2004,867685775,1107615152
+4,Infrastructure,230,Energy,3,Disbursements,2005,1861090959,2303382863
+4,Infrastructure,230,Energy,3,Disbursements,2006,1774483243,2127008397
+4,Infrastructure,230,Energy,3,Disbursements,2007,2269219458,2648125692
+4,Infrastructure,230,Energy,3,Disbursements,2008,2410041022,2755272985
+4,Infrastructure,230,Energy,3,Disbursements,2009,892944570,1009116664
+4,Infrastructure,230,Energy,3,Disbursements,2010,800656076,896928476
+4,Infrastructure,230,Energy,3,Disbursements,2011,905776267,994479514
+4,Infrastructure,230,Energy,3,Disbursements,2012,701264170,756128835
+4,Infrastructure,230,Energy,3,Disbursements,2013,896662509,950758405
+4,Infrastructure,230,Energy,3,Disbursements,2014,713678368,743206704
+4,Infrastructure,230,Energy,3,Disbursements,2015,578044560,594781163
+4,Infrastructure,230,Energy,3,Disbursements,2016,528463414,537548601
+4,Infrastructure,230,Energy,3,Disbursements,2017,527886719,527886719
+4,Infrastructure,230,Energy,3,Disbursements,2018,245002709,241224565
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2001,34531572,46780301
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2002,755928463,1007756006
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2003,614838710,804293583
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2004,523672532,668476595
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2005,475978720,589095992
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2006,298807387,358169522
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2007,478610553,558527252
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2008,116359826,133028055
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2009,482310141,545058695
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2010,230690997,258429708
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2011,111414182,122325048
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2012,149642802,161350377
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2013,201174868,213311801
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2014,156494877,162969827
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2015,143992415,148161552
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2016,93869845,95483636
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2017,104983784,104983784
+5,Economic Growth,240,Banking and Financial Services,2,Obligations,2018,70624598,69535509
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2001,47853319,64827417
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2002,806188758,1074759830
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2003,635378873,831162942
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2004,533425379,680926257
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2005,401717718,497186712
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2006,272546552,326691619
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2007,326534233,381057763
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2008,128010876,146348095
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2009,476296555,538262735
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2010,238018700,266638517
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2011,196480834,215722312
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2012,187229520,201877753
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2013,136433838,144664931
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2014,88487993,92149161
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2015,70345128,72381883
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2016,151551127,154156545
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2017,103810374,103810374
+5,Economic Growth,240,Banking and Financial Services,3,Disbursements,2018,77005235,75817754
+5,Economic Growth,250,Business and Other Services,2,Obligations,2001,244961270,331851751
+5,Economic Growth,250,Business and Other Services,2,Obligations,2002,309004126,411944731
+5,Economic Growth,250,Business and Other Services,2,Obligations,2003,417093880,545616151
+5,Economic Growth,250,Business and Other Services,2,Obligations,2004,395099161,504350570
+5,Economic Growth,250,Business and Other Services,2,Obligations,2005,686048465,849089222
+5,Economic Growth,250,Business and Other Services,2,Obligations,2006,717828600,860434990
+5,Economic Growth,250,Business and Other Services,2,Obligations,2007,556846669,649826937
+5,Economic Growth,250,Business and Other Services,2,Obligations,2008,419607918,479715615
+5,Economic Growth,250,Business and Other Services,2,Obligations,2009,256442262,289805427
+5,Economic Growth,250,Business and Other Services,2,Obligations,2010,274296164,307278059
+5,Economic Growth,250,Business and Other Services,2,Obligations,2011,411835330,452166623
+5,Economic Growth,250,Business and Other Services,2,Obligations,2012,302146265,325785225
+5,Economic Growth,250,Business and Other Services,2,Obligations,2013,332112504,352148948
+5,Economic Growth,250,Business and Other Services,2,Obligations,2014,310460558,323305813
+5,Economic Growth,250,Business and Other Services,2,Obligations,2015,268975070,276762943
+5,Economic Growth,250,Business and Other Services,2,Obligations,2016,220605521,224398112
+5,Economic Growth,250,Business and Other Services,2,Obligations,2017,242733682,242733682
+5,Economic Growth,250,Business and Other Services,2,Obligations,2018,141938845,139750035
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2001,292633329,396433597
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2002,396918870,529147102
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2003,321735160,420873835
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2004,412274553,526275243
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2005,401391638,496783150
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2006,796343474,954547912
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2007,734436637,857070237
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2008,541453556,619015310
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2009,295168400,333569812
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2010,336031347,376436363
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2011,350155721,384446675
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2012,349045341,376353537
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2013,291963790,309578047
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2014,350797971,365312188
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2015,226256477,232807472
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2016,209038679,212632427
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2017,236725052,236725052
+5,Economic Growth,250,Business and Other Services,3,Disbursements,2018,158506026,156061727
+5,Economic Growth,321,Industry,2,Obligations,2001,98758545,133789293
+5,Economic Growth,321,Industry,2,Obligations,2002,206120190,274786405
+5,Economic Growth,321,Industry,2,Obligations,2003,158350651,207144429
+5,Economic Growth,321,Industry,2,Obligations,2004,777429987,992402149
+5,Economic Growth,321,Industry,2,Obligations,2005,78842616,97579718
+5,Economic Growth,321,Industry,2,Obligations,2006,54502143,65329737
+5,Economic Growth,321,Industry,2,Obligations,2007,168975538,197190476
+5,Economic Growth,321,Industry,2,Obligations,2008,158742639,181482107
+5,Economic Growth,321,Industry,2,Obligations,2009,-8821515,-9969197
+5,Economic Growth,321,Industry,2,Obligations,2010,80083840,89713273
+5,Economic Growth,321,Industry,2,Obligations,2011,131072058,143908031
+5,Economic Growth,321,Industry,2,Obligations,2012,52363489,56460252
+5,Economic Growth,321,Industry,2,Obligations,2013,83027678,88036761
+5,Economic Growth,321,Industry,2,Obligations,2014,95032989,98964964
+5,Economic Growth,321,Industry,2,Obligations,2015,109326864,112492290
+5,Economic Growth,321,Industry,2,Obligations,2016,91981674,93563004
+5,Economic Growth,321,Industry,2,Obligations,2017,54435779,54435779
+5,Economic Growth,321,Industry,2,Obligations,2018,4730190,4657250
+5,Economic Growth,321,Industry,3,Disbursements,2001,74391232,100778617
+5,Economic Growth,321,Industry,3,Disbursements,2002,108738924,144963846
+5,Economic Growth,321,Industry,3,Disbursements,2003,155729035,203714984
+5,Economic Growth,321,Industry,3,Disbursements,2004,199671733,254884265
+5,Economic Growth,321,Industry,3,Disbursements,2005,119804826,148276664
+5,Economic Growth,321,Industry,3,Disbursements,2006,111433749,133571586
+5,Economic Growth,321,Industry,3,Disbursements,2007,57916376,67587044
+5,Economic Growth,321,Industry,3,Disbursements,2008,66407645,75920360
+5,Economic Growth,321,Industry,3,Disbursements,2009,110352188,124709001
+5,Economic Growth,321,Industry,3,Disbursements,2010,102739420,115092983
+5,Economic Growth,321,Industry,3,Disbursements,2011,102627495,112677875
+5,Economic Growth,321,Industry,3,Disbursements,2012,83939497,90506663
+5,Economic Growth,321,Industry,3,Disbursements,2013,102426148,108605550
+5,Economic Growth,321,Industry,3,Disbursements,2014,98607065,102686916
+5,Economic Growth,321,Industry,3,Disbursements,2015,99834956,102725557
+5,Economic Growth,321,Industry,3,Disbursements,2016,111257900,113170611
+5,Economic Growth,321,Industry,3,Disbursements,2017,84522271,84522271
+5,Economic Growth,321,Industry,3,Disbursements,2018,54248850,53412289
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2001,5386409,7297031
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2002,8566175,11419884
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2003,507083857,663335417
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2004,305559482,390051704
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2005,684546211,847229962
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2006,414216368,496506065
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2007,46716421,54516966
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2008,21419364,24487630
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2009,10379903,11730328
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2010,10799170,12097683
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2011,47110402,51723953
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2012,53892437,58108810
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2013,19654233,20839977
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2014,657699,684910
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2015,3447703,3547528
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2016,1143504,1163162
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2017,2913824,2913824
+5,Economic Growth,322,Mineral Resources and Mining,2,Obligations,2018,1327860,1307383
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2001,4886409,6619675
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2002,8566175,11419884
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2003,147596539,193076570
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2004,618178761,789115351
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2005,566901909,701627260
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2006,635940277,762278426
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2007,245438294,286420708
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2008,32096479,36694214
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2009,48130667,54392470
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2010,14830461,16613704
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2011,37169757,40809819
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2012,39598138,42696170
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2013,11221229,11898208
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2014,2430842,2531418
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2015,1892119,1946904
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2016,1154254,1174096
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2017,1410733,1410733
+5,Economic Growth,322,Mineral Resources and Mining,3,Disbursements,2018,2179501,2145891
+5,Economic Growth,323,Construction,2,Obligations,2001,54000,73154
+5,Economic Growth,323,Construction,2,Obligations,2002,382806,510332
+5,Economic Growth,323,Construction,2,Obligations,2003,36500,47747
+5,Economic Growth,323,Construction,2,Obligations,2004,774470,988624
+5,Economic Growth,323,Construction,2,Obligations,2005,341762257,422982723
+5,Economic Growth,323,Construction,2,Obligations,2006,25598344,30683804
+5,Economic Growth,323,Construction,2,Obligations,2007,250000,291744
+5,Economic Growth,323,Construction,2,Obligations,2008,-705937,-807061
+5,Economic Growth,323,Construction,2,Obligations,2009,9138325,10327221
+5,Economic Growth,323,Construction,2,Obligations,2010,219105,245451
+5,Economic Growth,323,Construction,2,Obligations,2011,36620,40206
+5,Economic Growth,323,Construction,2,Obligations,2016,178499,181568
+5,Economic Growth,323,Construction,2,Obligations,2017,370409,370409
+5,Economic Growth,323,Construction,3,Disbursements,2001,54000,73154
+5,Economic Growth,323,Construction,3,Disbursements,2002,382806,510332
+5,Economic Growth,323,Construction,3,Disbursements,2003,36500,47747
+5,Economic Growth,323,Construction,3,Disbursements,2004,774470,988624
+5,Economic Growth,323,Construction,3,Disbursements,2005,247527696,306353135
+5,Economic Growth,323,Construction,3,Disbursements,2006,28261997,33876628
+5,Economic Growth,323,Construction,3,Disbursements,2008,381523,436176
+5,Economic Growth,323,Construction,3,Disbursements,2009,10883842,12299828
+5,Economic Growth,323,Construction,3,Disbursements,2010,20694,23182
+5,Economic Growth,323,Construction,3,Disbursements,2011,139987,153696
+5,Economic Growth,323,Construction,3,Disbursements,2012,16211,17479
+5,Economic Growth,323,Construction,3,Disbursements,2013,13753,14582
+5,Economic Growth,323,Construction,3,Disbursements,2017,455112,455112
+5,Economic Growth,323,Construction,3,Disbursements,2018,17032,16769
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2001,179174549,242729749
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2002,469890287,626427995
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2003,233594985,305574369
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2004,358927636,458177026
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2005,296941137,367509765
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2006,75809714,90870345
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2007,254182951,296625520
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2008,232572682,265888098
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2009,210916627,238356884
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2010,155726842,174451730
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2011,161612155,177438929
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2012,208248907,224541641
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2013,177860519,188590894
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2014,112369118,117018373
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2015,133512286,137377979
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2016,158291753,161013061
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2017,110636364,110636364
+5,Economic Growth,331,Trade Policy and Regulations,2,Obligations,2018,209251237,206024418
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2001,317991699,430786880
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2002,466919087,622466980
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2003,237001252,310030232
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2004,398679512,508920964
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2005,267074051,330544714
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2006,71749798,86003875
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2007,204875204,239084527
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2008,189643569,216809489
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2009,178649342,201891632
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2010,174670323,195673002
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2011,171490606,188284761
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2012,206437801,222588837
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2013,181577295,192531898
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2014,101618766,105823237
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2015,115333763,118673120
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2016,108861039,110732552
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2017,125965322,125965322
+5,Economic Growth,331,Trade Policy and Regulations,3,Disbursements,2018,223568061,220120470
+5,Economic Growth,332,Tourism,2,Obligations,2001,5000,6774
+5,Economic Growth,332,Tourism,2,Obligations,2002,540122,720056
+5,Economic Growth,332,Tourism,2,Obligations,2003,1241665,1624267
+5,Economic Growth,332,Tourism,2,Obligations,2004,638615,815202
+5,Economic Growth,332,Tourism,2,Obligations,2005,440829,545593
+5,Economic Growth,332,Tourism,2,Obligations,2006,809843,970729
+5,Economic Growth,332,Tourism,2,Obligations,2007,973732,1136322
+5,Economic Growth,332,Tourism,2,Obligations,2008,2568677,2936632
+5,Economic Growth,332,Tourism,2,Obligations,2009,65424181,73935868
+5,Economic Growth,332,Tourism,2,Obligations,2010,30651,34336
+5,Economic Growth,332,Tourism,2,Obligations,2011,35649,39140
+5,Economic Growth,332,Tourism,2,Obligations,2012,967685,1043393
+5,Economic Growth,332,Tourism,2,Obligations,2013,1724441,1828477
+5,Economic Growth,332,Tourism,2,Obligations,2014,200179,208462
+5,Economic Growth,332,Tourism,2,Obligations,2015,-1400650,-1441204
+5,Economic Growth,332,Tourism,2,Obligations,2016,244506,248710
+5,Economic Growth,332,Tourism,2,Obligations,2017,252725,252725
+5,Economic Growth,332,Tourism,2,Obligations,2018,64750,63752
+5,Economic Growth,332,Tourism,3,Disbursements,2001,5000,6774
+5,Economic Growth,332,Tourism,3,Disbursements,2002,540122,720056
+5,Economic Growth,332,Tourism,3,Disbursements,2003,926260,1211674
+5,Economic Growth,332,Tourism,3,Disbursements,2004,656944,838599
+5,Economic Growth,332,Tourism,3,Disbursements,2005,436449,540174
+5,Economic Growth,332,Tourism,3,Disbursements,2006,279716,335284
+5,Economic Growth,332,Tourism,3,Disbursements,2007,372588,434800
+5,Economic Growth,332,Tourism,3,Disbursements,2008,643019,735129
+5,Economic Growth,332,Tourism,3,Disbursements,2009,372367,420813
+5,Economic Growth,332,Tourism,3,Disbursements,2010,3782688,4237525
+5,Economic Growth,332,Tourism,3,Disbursements,2011,5479852,6016497
+5,Economic Growth,332,Tourism,3,Disbursements,2012,5097540,5496355
+5,Economic Growth,332,Tourism,3,Disbursements,2013,14372433,15239527
+5,Economic Growth,332,Tourism,3,Disbursements,2014,32400930,33741514
+5,Economic Growth,332,Tourism,3,Disbursements,2015,7715139,7938521
+5,Economic Growth,332,Tourism,3,Disbursements,2016,477519,485728
+5,Economic Growth,332,Tourism,3,Disbursements,2017,471871,471871
+5,Economic Growth,332,Tourism,3,Disbursements,2018,102920,101333
+6,Agriculture,310,Agriculture,2,Obligations,2001,281848920,381823866
+6,Agriculture,310,Agriculture,2,Obligations,2002,488182505,650814014
+6,Agriculture,310,Agriculture,2,Obligations,2003,682062883,892232042
+6,Agriculture,310,Agriculture,2,Obligations,2004,541811691,691631518
+6,Agriculture,310,Agriculture,2,Obligations,2005,618515591,765507025
+6,Agriculture,310,Agriculture,2,Obligations,2006,556233119,666736373
+6,Agriculture,310,Agriculture,2,Obligations,2007,1047168346,1222020796
+6,Agriculture,310,Agriculture,2,Obligations,2008,1421988066,1625684071
+6,Agriculture,310,Agriculture,2,Obligations,2009,1003208810,1133726278
+6,Agriculture,310,Agriculture,2,Obligations,2010,1650585965,1849055512
+6,Agriculture,310,Agriculture,2,Obligations,2011,1351239119,1483566800
+6,Agriculture,310,Agriculture,2,Obligations,2012,1485472186,1601690776
+6,Agriculture,310,Agriculture,2,Obligations,2013,1269474809,1346062551
+6,Agriculture,310,Agriculture,2,Obligations,2014,1299720018,1353495717
+6,Agriculture,310,Agriculture,2,Obligations,2015,1570311339,1615777888
+6,Agriculture,310,Agriculture,2,Obligations,2016,1218461644,1239409120
+6,Agriculture,310,Agriculture,2,Obligations,2017,1184701429,1184701429
+6,Agriculture,310,Agriculture,2,Obligations,2018,456568906,449528225
+6,Agriculture,310,Agriculture,3,Disbursements,2001,298204974,403981583
+6,Agriculture,310,Agriculture,3,Disbursements,2002,551033742,734603306
+6,Agriculture,310,Agriculture,3,Disbursements,2003,597910561,782149225
+6,Agriculture,310,Agriculture,3,Disbursements,2004,431410194,550702205
+6,Agriculture,310,Agriculture,3,Disbursements,2005,474270924,586982326
+6,Agriculture,310,Agriculture,3,Disbursements,2006,465885521,558439996
+6,Agriculture,310,Agriculture,3,Disbursements,2007,457053252,533370390
+6,Agriculture,310,Agriculture,3,Disbursements,2008,734231811,839408554
+6,Agriculture,310,Agriculture,3,Disbursements,2009,1018520964,1151030537
+6,Agriculture,310,Agriculture,3,Disbursements,2010,1381351220,1547447462
+6,Agriculture,310,Agriculture,3,Disbursements,2011,1664873887,1827916028
+6,Agriculture,310,Agriculture,3,Disbursements,2012,1469809458,1584802653
+6,Agriculture,310,Agriculture,3,Disbursements,2013,1506913092,1597825565
+6,Agriculture,310,Agriculture,3,Disbursements,2014,1347285714,1403029440
+6,Agriculture,310,Agriculture,3,Disbursements,2015,1599786479,1646106400
+6,Agriculture,310,Agriculture,3,Disbursements,2016,1381924119,1405681753
+6,Agriculture,310,Agriculture,3,Disbursements,2017,1307555686,1307555686
+6,Agriculture,310,Agriculture,3,Disbursements,2018,750082145,738515287
+7,Other,410,General Environmental Protection,2,Obligations,2001,306463170,415169079
+7,Other,410,General Environmental Protection,2,Obligations,2002,417550597,556652044
+7,Other,410,General Environmental Protection,2,Obligations,2003,463764667,606667969
+7,Other,410,General Environmental Protection,2,Obligations,2004,612487161,781849927
+7,Other,410,General Environmental Protection,2,Obligations,2005,531160307,657391612
+7,Other,410,General Environmental Protection,2,Obligations,2006,443387691,531472650
+7,Other,410,General Environmental Protection,2,Obligations,2007,290432003,338927328
+7,Other,410,General Environmental Protection,2,Obligations,2008,382079215,436811027
+7,Other,410,General Environmental Protection,2,Obligations,2009,396404793,447977076
+7,Other,410,General Environmental Protection,2,Obligations,2010,991937739,1111210171
+7,Other,410,General Environmental Protection,2,Obligations,2011,1013630508,1112896006
+7,Other,410,General Environmental Protection,2,Obligations,2012,1062044963,1145135981
+7,Other,410,General Environmental Protection,2,Obligations,2013,1171848806,1242546757
+7,Other,410,General Environmental Protection,2,Obligations,2014,1222363797,1272938919
+7,Other,410,General Environmental Protection,2,Obligations,2015,1265220744,1301853732
+7,Other,410,General Environmental Protection,2,Obligations,2016,1772077535,1802542626
+7,Other,410,General Environmental Protection,2,Obligations,2017,1366568462,1366568462
+7,Other,410,General Environmental Protection,2,Obligations,2018,396620128,390503927
+7,Other,410,General Environmental Protection,3,Disbursements,2001,266855325,361511877
+7,Other,410,General Environmental Protection,3,Disbursements,2002,381824435,509024171
+7,Other,410,General Environmental Protection,3,Disbursements,2003,494999425,647527342
+7,Other,410,General Environmental Protection,3,Disbursements,2004,622274500,794343628
+7,Other,410,General Environmental Protection,3,Disbursements,2005,520795290,644563326
+7,Other,410,General Environmental Protection,3,Disbursements,2006,436839374,523623415
+7,Other,410,General Environmental Protection,3,Disbursements,2007,366500606,427697592
+7,Other,410,General Environmental Protection,3,Disbursements,2008,311234376,355817841
+7,Other,410,General Environmental Protection,3,Disbursements,2009,378515807,427760722
+7,Other,410,General Environmental Protection,3,Disbursements,2010,897509190,1005427357
+7,Other,410,General Environmental Protection,3,Disbursements,2011,786141007,863128300
+7,Other,410,General Environmental Protection,3,Disbursements,2012,774213552,834785559
+7,Other,410,General Environmental Protection,3,Disbursements,2013,1116837776,1184216920
+7,Other,410,General Environmental Protection,3,Disbursements,2014,1195205538,1244656978
+7,Other,410,General Environmental Protection,3,Disbursements,2015,1237480394,1273310200
+7,Other,410,General Environmental Protection,3,Disbursements,2016,1666905782,1695562756
+7,Other,410,General Environmental Protection,3,Disbursements,2017,1365847749,1365847749
+7,Other,410,General Environmental Protection,3,Disbursements,2018,504810239,497025671
+7,Other,430,Other Multisector,2,Obligations,2001,672448895,910973988
+7,Other,430,Other Multisector,2,Obligations,2002,955355396,1273619377
+7,Other,430,Other Multisector,2,Obligations,2003,667891999,873694580
+7,Other,430,Other Multisector,2,Obligations,2004,618360848,789347771
+7,Other,430,Other Multisector,2,Obligations,2005,794185770,982925573
+7,Other,430,Other Multisector,2,Obligations,2006,980316842,1175070074
+7,Other,430,Other Multisector,2,Obligations,2007,1031961375,1204274615
+7,Other,430,Other Multisector,2,Obligations,2008,1162976505,1329569805
+7,Other,430,Other Multisector,2,Obligations,2009,1372969960,1551593367
+7,Other,430,Other Multisector,2,Obligations,2010,456654545,511563544
+7,Other,430,Other Multisector,2,Obligations,2011,143811983,157895586
+7,Other,430,Other Multisector,2,Obligations,2012,176285496,190077501
+7,Other,430,Other Multisector,2,Obligations,2013,824344985,874077934
+7,Other,430,Other Multisector,2,Obligations,2014,717842210,747542810
+7,Other,430,Other Multisector,2,Obligations,2015,362359691,372851380
+7,Other,430,Other Multisector,2,Obligations,2016,138677788,141061894
+7,Other,430,Other Multisector,2,Obligations,2017,427626103,427626103
+7,Other,430,Other Multisector,2,Obligations,2018,29705851,29247760
+7,Other,430,Other Multisector,3,Disbursements,2001,846428869,1146666583
+7,Other,430,Other Multisector,3,Disbursements,2002,1020751181,1360800888
+7,Other,430,Other Multisector,3,Disbursements,2003,682231907,892453169
+7,Other,430,Other Multisector,3,Disbursements,2004,661441080,844340414
+7,Other,430,Other Multisector,3,Disbursements,2005,613287571,759036536
+7,Other,430,Other Multisector,3,Disbursements,2006,770176616,923182634
+7,Other,430,Other Multisector,3,Disbursements,2007,930643992,1086039597
+7,Other,430,Other Multisector,3,Disbursements,2008,1463930332,1673634451
+7,Other,430,Other Multisector,3,Disbursements,2009,1136870695,1284777569
+7,Other,430,Other Multisector,3,Disbursements,2010,345075107,386567595
+7,Other,430,Other Multisector,3,Disbursements,2011,166026470,182285562
+7,Other,430,Other Multisector,3,Disbursements,2012,147410722,158943655
+7,Other,430,Other Multisector,3,Disbursements,2013,398329364,422360689
+7,Other,430,Other Multisector,3,Disbursements,2014,454721647,473535686
+7,Other,430,Other Multisector,3,Disbursements,2015,249014727,256224653
+7,Other,430,Other Multisector,3,Disbursements,2016,405594090,412566949
+7,Other,430,Other Multisector,3,Disbursements,2017,397837286,397837286
+7,Other,430,Other Multisector,3,Disbursements,2018,94427578,92971419
+7,Other,510,General Budget Support,2,Obligations,2001,922878000,1250233071
+7,Other,510,General Budget Support,2,Obligations,2002,350919195,467823264
+7,Other,510,General Budget Support,2,Obligations,2003,318010000,416000813
+7,Other,510,General Budget Support,2,Obligations,2004,317733330,405591818
+7,Other,510,General Budget Support,2,Obligations,2005,333887178,413236119
+7,Other,510,General Budget Support,2,Obligations,2006,44949771,53879653
+7,Other,510,General Budget Support,2,Obligations,2007,90639782,105774491
+7,Other,510,General Budget Support,2,Obligations,2008,178479790,204046547
+7,Other,510,General Budget Support,2,Obligations,2009,401269388,453474535
+7,Other,510,General Budget Support,2,Obligations,2010,336229748,376658642
+7,Other,510,General Budget Support,2,Obligations,2011,475162272,521695215
+7,Other,510,General Budget Support,2,Obligations,2012,365477477,394071270
+7,Other,510,General Budget Support,2,Obligations,2013,743118960,787951527
+7,Other,510,General Budget Support,2,Obligations,2014,258432073,269124664
+7,Other,510,General Budget Support,2,Obligations,2015,532001546,547405038
+7,Other,510,General Budget Support,2,Obligations,2016,352992999,359061559
+7,Other,510,General Budget Support,2,Obligations,2017,105679044,105679044
+7,Other,510,General Budget Support,2,Obligations,2018,143890370,141671463
+7,Other,510,General Budget Support,3,Disbursements,2001,922878000,1250233071
+7,Other,510,General Budget Support,3,Disbursements,2002,151010867,201318131
+7,Other,510,General Budget Support,3,Disbursements,2003,517918328,677508397
+7,Other,510,General Budget Support,3,Disbursements,2004,317733330,405591818
+7,Other,510,General Budget Support,3,Disbursements,2005,333887178,413236119
+7,Other,510,General Budget Support,3,Disbursements,2006,44949771,53879653
+7,Other,510,General Budget Support,3,Disbursements,2007,90639782,105774491
+7,Other,510,General Budget Support,3,Disbursements,2008,178479790,204046547
+7,Other,510,General Budget Support,3,Disbursements,2009,401269388,453474535
+7,Other,510,General Budget Support,3,Disbursements,2010,229969565,257621534
+7,Other,510,General Budget Support,3,Disbursements,2011,383726252,421304806
+7,Other,510,General Budget Support,3,Disbursements,2012,364347257,392852621
+7,Other,510,General Budget Support,3,Disbursements,2013,732880092,777094944
+7,Other,510,General Budget Support,3,Disbursements,2014,248103474,258368722
+7,Other,510,General Budget Support,3,Disbursements,2015,530492063,545851847
+7,Other,510,General Budget Support,3,Disbursements,2016,335943598,341719046
+7,Other,510,General Budget Support,3,Disbursements,2017,80030553,80030553
+7,Other,510,General Budget Support,3,Disbursements,2018,82712282,81436791
+7,Other,600,Action Relating To Debt,2,Obligations,2003,187351336,245081311
+7,Other,600,Action Relating To Debt,2,Obligations,2004,200000000,255303287
+7,Other,600,Action Relating To Debt,2,Obligations,2010,154882499,173505861
+7,Other,600,Action Relating To Debt,3,Disbursements,2001,5000000,6773556
+7,Other,600,Action Relating To Debt,3,Disbursements,2003,187351336,245081311
+7,Other,600,Action Relating To Debt,3,Disbursements,2004,200000000,255303287
+7,Other,600,Action Relating To Debt,3,Disbursements,2010,144451634,161820769
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2001,1141465983,1546356637
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2002,1171589113,1561888470
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2003,234932418,307323910
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2004,2417587453,3086090118
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2005,1261194708,1560920095
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2006,1124509920,1347909060
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2007,1468776318,1714027382
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2008,1218863122,1393462028
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2009,1634298922,1846921211
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2010,1802588268,2019334855
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2011,1723425211,1892201332
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2012,2388501564,2575370307
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2013,2074844024,2200019922
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2014,2297521557,2392581195
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2015,2103304448,2164203184
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2016,1897533916,1930155786
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2017,1698646679,1698646679
+7,Other,998,Unallocated/ Unspecified,2,Obligations,2018,1358623000,1337671940
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2001,1141465983,1546356637
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2002,1171589113,1561888470
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2003,234932418,307323910
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2004,2417296203,3085718332
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2005,1259654378,1559013702
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2006,1125271101,1348821458
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2007,1468974572,1714258738
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2008,1219019358,1393640643
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2009,1634570525,1847228150
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2010,1802671572,2019428176
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2011,1723459328,1892238790
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2012,2511279581,2707754084
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2013,2075170911,2200366530
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2014,2355890957,2453365621
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2015,2103304448,2164203184
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2016,1890233527,1922729892
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2017,1698676620,1698676620
+7,Other,998,Unallocated/ Unspecified,3,Disbursements,2018,1358658000,1337706400
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2001,1471301703,1993188681
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2002,729591781,972645606
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2003,1023693062,1339131306
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2004,961992410,1227999147
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2005,613318931,759075376
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2006,725782091,869968533
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2007,516578332,602834744
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2008,556462420,636174189
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2009,608874483,688089059
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2010,592146449,663347247
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2011,649178304,712752739
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2012,590180756,636354616
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2013,454602717,482029027
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2014,380261858,395995125
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2015,781939052,804579210
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2016,524135478,533146268
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2017,445171413,445171413
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,2,Obligations,2018,452921500,445937091
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2001,614256839,832140549
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2002,605580079,807321053
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2003,988840133,1293538892
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2004,956333676,1220775684
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2005,630266890,780051052
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2006,693280984,831010634
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2007,520083090,606924723
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2008,544211119,622167914
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2009,558043857,630645382
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2010,560534456,627934156
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2011,643359168,706363729
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2012,589616385,635746070
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2013,416895805,442047255
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2014,415544083,432737159
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2015,706555174,727012661
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2016,530883424,540010228
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2017,668515082,668515082
+8,Commodity Assistance,520,Developmental Food Aid/Food Security Assistance,3,Disbursements,2018,561900575,553235609
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2001,203844810,276150828
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2002,307676134,410174357
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2003,193278936,252835432
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2004,103267349,131822467
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2005,130195044,161136147
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2006,66618496,79853162
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2007,196862786,229734237
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2008,4429434,5063937
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2009,-1000303,-1130444
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2010,1593878,1785529
+8,Commodity Assistance,530,Other Commodity Assistance,2,Obligations,2011,-5566,-6110
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2001,235945804,319638400
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2002,259510258,345962654
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2003,198971696,260282346
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2004,172001555,219562812
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2005,102657137,127053808
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2006,83380238,99944853
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2007,131660732,153644975
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2008,110928077,126818229
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2009,42291900,47794076
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2010,2631130,2947502
+8,Commodity Assistance,530,Other Commodity Assistance,3,Disbursements,2011,29,31
+9,Humanitarian,720,Emergency Response,2,Obligations,2001,1815686440,2459730589
+9,Humanitarian,720,Emergency Response,2,Obligations,2002,2250919361,3000783218
+9,Humanitarian,720,Emergency Response,2,Obligations,2003,3605215484,4716117650
+9,Humanitarian,720,Emergency Response,2,Obligations,2004,2375552342,3032431621
+9,Humanitarian,720,Emergency Response,2,Obligations,2005,3450853637,4270955784
+9,Humanitarian,720,Emergency Response,2,Obligations,2006,3018941967,3618695720
+9,Humanitarian,720,Emergency Response,2,Obligations,2007,2939820400,3430701183
+9,Humanitarian,720,Emergency Response,2,Obligations,2008,4369719017,4995669672
+9,Humanitarian,720,Emergency Response,2,Obligations,2009,4634761749,5237744285
+9,Humanitarian,720,Emergency Response,2,Obligations,2010,5333873447,5975228345
+9,Humanitarian,720,Emergency Response,2,Obligations,2011,4338108320,4762942017
+9,Humanitarian,720,Emergency Response,2,Obligations,2012,4182570442,4509801416
+9,Humanitarian,720,Emergency Response,2,Obligations,2013,4795860858,5085196433
+9,Humanitarian,720,Emergency Response,2,Obligations,2014,6076889103,6328319521
+9,Humanitarian,720,Emergency Response,2,Obligations,2015,6800210418,6997102646
+9,Humanitarian,720,Emergency Response,2,Obligations,2016,6778922307,6895463669
+9,Humanitarian,720,Emergency Response,2,Obligations,2017,8315864714,8315864714
+9,Humanitarian,720,Emergency Response,2,Obligations,2018,1968419897,1938065275
+9,Humanitarian,720,Emergency Response,3,Disbursements,2001,1412107670,1912997952
+9,Humanitarian,720,Emergency Response,3,Disbursements,2002,2462247664,3282512786
+9,Humanitarian,720,Emergency Response,3,Disbursements,2003,3385979874,4429327308
+9,Humanitarian,720,Emergency Response,3,Disbursements,2004,2369592825,3024824171
+9,Humanitarian,720,Emergency Response,3,Disbursements,2005,3472636137,4297914905
+9,Humanitarian,720,Emergency Response,3,Disbursements,2006,3132541403,3754863196
+9,Humanitarian,720,Emergency Response,3,Disbursements,2007,2970549988,3466561891
+9,Humanitarian,720,Emergency Response,3,Disbursements,2008,3946843513,4512218396
+9,Humanitarian,720,Emergency Response,3,Disbursements,2009,4364864621,4932733544
+9,Humanitarian,720,Emergency Response,3,Disbursements,2010,4552072440,5099422111
+9,Humanitarian,720,Emergency Response,3,Disbursements,2011,4582628220,5031407896
+9,Humanitarian,720,Emergency Response,3,Disbursements,2012,3979160225,4290477036
+9,Humanitarian,720,Emergency Response,3,Disbursements,2013,4212735518,4466890976
+9,Humanitarian,720,Emergency Response,3,Disbursements,2014,5732458367,5969638021
+9,Humanitarian,720,Emergency Response,3,Disbursements,2015,6351263971,6535157462
+9,Humanitarian,720,Emergency Response,3,Disbursements,2016,6256692144,6364255458
+9,Humanitarian,720,Emergency Response,3,Disbursements,2017,6689684882,6689684882
+9,Humanitarian,720,Emergency Response,3,Disbursements,2018,3705449884,3648308894
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2001,68389993,92648683
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2002,73104941,97458876
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2003,1109867764,1451859660
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2004,42551007,54317064
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2005,376331381,465767270
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2006,253606244,303988564
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2007,251253637,293207082
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2008,105973997,121154488
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2009,58797902,66447508
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2010,60985580,68318600
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2011,3616741,3970930
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2012,-913796,-985289
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2013,2448262,2595969
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2014,3856172,4015723
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2015,48711,50120
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2016,5848361,5948906
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,2,Obligations,2018,-163088,-160573
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2001,253330641,343189829
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2002,161125740,214802630
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2003,98521191,128879267
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2004,425394145,543022621
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2005,201562220,249463888
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2006,209503785,251124546
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2007,251699586,293727483
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2008,212834456,243322430
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2009,128233815,144917032
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2010,91659223,102680496
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2011,85512902,93887232
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2012,22922,24715
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2013,1594959,1691183
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2014,6529361,6799514
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2015,860864,885788
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2016,5690342,5788171
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2017,443,443
+9,Humanitarian,730,Reconstruction Relief and Rehabilitation,3,Disbursements,2018,0,0
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2001,8078262,10943711
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2002,370333,493703
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2003,542800,710058
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2004,5888229,7516420
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2005,5336795,6605097
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2006,9765648,11705727
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2007,41955015,48960512
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2008,42598982,48701171
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2009,119403463,134937857
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2010,65175146,73011926
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2011,129997033,142727724
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2012,168654721,181849737
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2013,112425155,119207807
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2014,142980342,148896123
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2015,157986549,162560865
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2016,152808667,155435709
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2017,183303559,183303559
+9,Humanitarian,740,Disaster Prevention and Preparedness,2,Obligations,2018,80417986,79177876
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2001,28243572,38261883
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2002,-10447544,-13928003
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2003,19213627,25134065
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2004,6207484,7923956
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2005,4237289,5244292
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2006,3645515,4369747
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2007,6471706,7552326
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2008,24307730,27789741
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2009,48386983,54682130
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2010,91624712,102641828
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2011,81972229,89999809
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2012,94409454,101795760
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2013,120766451,128052331
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2014,134824038,140402349
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2015,153769068,158221273
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2016,162920546,165721418
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2017,138567520,138567520
+9,Humanitarian,740,Disaster Prevention and Preparedness,3,Disbursements,2018,108298095,106628049
+9,Humanitarian,930,Refugees in Donor Countries,2,Obligations,2007,61196,71414
+9,Humanitarian,930,Refugees in Donor Countries,3,Disbursements,2007,61196,71414
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2001,791043982,1071636022
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2002,827912635,1103720731
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2003,894495498,1170123148
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2004,1034229098,1320210427
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2005,1173761891,1452708714
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2006,1247745804,1495627424
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2007,1483797092,1731556239
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2008,1603425417,1833111811
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2009,1548862605,1750369629
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2010,1987207842,2226153439
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2011,1438552191,1579430505
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2012,1851887391,1996773113
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2013,2004301496,2125221524
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2014,2028894065,2112839273
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2015,1953974653,2010549697
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2016,2052546800,2087833606
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2017,2443463694,2443463694
+10,Administrative Costs,911,Operating Expenses,2,Obligations,2018,988570246,973325682
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2001,780348807,1057147175
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2002,789762919,1052861940
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2003,929793630,1216297906
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2004,1002984025,1280325577
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2005,1068766054,1322760364
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2006,1154074443,1383346911
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2007,1168752275,1363906350
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2008,1370489217,1566808147
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2009,1374078868,1552846490
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2010,1704503000,1909455624
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2011,1520916169,1669860439
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2012,2019023748,2176985708
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2013,2009902699,2131160619
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2014,1979682181,2061591220
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2015,1927014801,1982809260
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2016,2081845429,2117635903
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2017,2291697906,2291697906
+10,Administrative Costs,911,Operating Expenses,3,Disbursements,2018,1231202563,1212216441
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2007,48101507,56133328
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2008,62725548,71710802
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2009,37753236,42664935
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2010,56855688,63692105
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2011,83451646,91624122
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2012,82037374,88455710
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2013,103496951,109740950
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2014,108483374,112971849
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2015,156336081,160862618
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2016,125446706,127603371
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2017,135587179,135587179
+10,Administrative Costs,912,Program Design and Learning,2,Obligations,2018,52605891,51794663
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2007,18518682,21610860
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2008,47708080,54542148
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2009,29127465,32916957
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2010,46064813,51603724
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2011,61491965,67513923
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2012,74486023,80313575
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2013,92433915,98010470
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2014,91545717,95333398
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2015,106830657,109923813
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2016,104825566,106627688
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2017,146719457,146719457
+10,Administrative Costs,912,Program Design and Learning,3,Disbursements,2018,106667570,105022668
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2008,24486701,27994358
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2009,160461729,181337791
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2010,297938452,333763076
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2011,346083531,379975695
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2012,398759058,429956641
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2013,375746698,398415550
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2014,407739735,424609869
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2015,423732194,436000874
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2016,431032048,438442230
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2017,407626481,407626481
+10,Administrative Costs,913,Administration and Oversight,2,Obligations,2018,148417919,146129208
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2008,4594621,5252784
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2009,69652943,78714765
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2010,200288243,224371238
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2011,292191607,320806078
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2012,361642156,389935890
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2013,367773302,389961132
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2014,368030403,383257591
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2015,394419949,405839908
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2016,428397634,435762518
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2017,427587677,427587677
+10,Administrative Costs,913,Administration and Oversight,3,Disbursements,2018,262949511,258894624
